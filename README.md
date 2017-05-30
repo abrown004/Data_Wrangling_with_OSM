@@ -3,6 +3,9 @@ This code provides auditing and validation of Open Street Map data. It also runs
 
 ## Getting Started
 Clone the repository and run the Python file. Open Street Map data is available for download using the [Overpass API](http://overpass-api.de/query_form.html).
+```
+git clone https://github.com/abrown004/Data_Wrangling_with_OSM.git
+```
 
 ## Built With
 ```
